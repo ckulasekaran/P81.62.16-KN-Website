@@ -1,10 +1,12 @@
 {
   "name": "p89-kn-website",
   "version": "1.0.0",
-  "description": "Cel Kulasekaran Personal Website",
+  "description": "Cel Kulasekaran",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "eleventy --serve",
+    "build": "eleventy"
   },
   "keywords": [],
   "author": "",
