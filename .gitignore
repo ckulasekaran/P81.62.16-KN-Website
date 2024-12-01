@@ -1,4 +1,14 @@
-.DS_Store
+# Dependencies
 node_modules/
+
+# Build output
 _site/
+
+# Obsidian's internal files
 .obsidian/
+
+# Mac system files
+.DS_Store
+
+# Environment variables (where applicable)
+.env
