@@ -9,8 +9,8 @@ module.exports = function(eleventyConfig) {
     dir: {
       input: "content",          // Cel's Obsidian vault for Personal Site
       output: "_site",           // Generated site
-      includes: "_includes",     // Templates
-      layouts: "_layouts"        // Layout files
+      includes: "../_includes",     // Templates
+      layouts: "../_layouts"        // Layout files
     },
     templateFormats: ["md", "njk"],
     markdownTemplateEngine: "njk"
