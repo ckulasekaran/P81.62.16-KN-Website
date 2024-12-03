@@ -12,7 +12,7 @@ tags: pages
 I like to read and try to keep up with my son. Occasionally, I write reviews for journals or the open public. You can also look at my cataloged library at LibraryThing.
 
 ## Economics, Finance, and Mathematics
-&nbsp;
+
 - **Beyond Diversification: What Every Investor Needs to Know About Asset Allocation**\
   (S. Page)\
   reviewed for the Journal of Investment Management, Q1 2021\
@@ -52,23 +52,19 @@ I like to read and try to keep up with my son. Occasionally, I write reviews for
   reviewed for the Journal of Investment Management, Q4 2006\
   [Download PDF](/assets/pdf/empirical_dynamic_asset_pricing.pdf)
 
-&nbsp;
 ## Non-Fiction
-&nbsp;
 - **The Book of Times: From Seconds to Centuries, a Compendium of Measures**\
   (L. Alderman)\
   [https://www.librarything.com/review/98404003](https://www.librarything.com/review/98404003)
 
-&nbsp;
 ## Fiction
-&nbsp;
+
 - **The Man Who Would Be King**\
   (R. Kipling)\
   [https://manybooks.net/reviews/filter.php?show=Cel%20Kulasekaran](https://manybooks.net/reviews/filter.php?show=Cel%20Kulasekaran)
 
-&nbsp;
 ## Young Readers
-&nbsp;
+
 - **Chess is Child's Play: Teaching Techniques**\
   (Laura Sherman)\
   [https://www.librarything.com/review/93839622](https://www.librarything.com/review/93839622)
