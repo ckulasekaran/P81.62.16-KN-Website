@@ -14,11 +14,13 @@ Cel Kulasekaran's personal website built with 11ty, featuring a posts with pagin
 3. Build site: `npm run build`
 
 ## Structure
+```
 src/
 ├── _data/        # Site data
 ├── _includes/    # Templates
 ├── assets/       # CSS, images, pdfs
 └── posts/        # Posts
+```
 
 ## Deployment
 Deployed via GitHub Pages using GitHub Actions.
