@@ -107,6 +107,6 @@ module.exports = function (eleventyConfig) {
       input: "src",
       output: "_site"
     },
-    pathPrefix: "/YOUR-REPO-NAME/"
+    pathPrefix: "/P89-KN-Website/"
   };
 };
