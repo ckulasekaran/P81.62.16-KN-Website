@@ -98,6 +98,9 @@ module.exports = function (eleventyConfig) {
       return array.slice(start, end);
   });
 
+  // Coopy assets for deployment
+  eleventyConfig.addPassthroughCopy("src/assets");
+
   // Directory configuration
   return {
     dir: {
