@@ -17,4 +17,4 @@ The Matlab script assumes a simple parametric distribution to compute the probab
 
 The results were conclusive: unless the skill gap between you and your opponent is zero, Hi-Ho scoring is generally disadvantageous. For players with even a slight skill disparity, the PAR system provides a fairer and more balanced scoring structure.
 
-[Download the PDF](/assets/pdf/par-11-vs-hiho-9-squash.pdf)
+[Download PDF](/assets/pdf/par-11-vs-hiho-9-squash.pdf)
