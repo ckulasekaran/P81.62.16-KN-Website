@@ -1,0 +1,31 @@
+<footer class="site-footer">
+    <div class="social-icons">
+        <ul class="nav nav-pills">
+            {% if site.linkedin %}
+            <li><a href="{{ site.linkedin }}" title="LinkedIn"><i class="fa fa-linkedin"></i></a></li>
+            {% endif %}
+            <li>
+                <a href="https://soundcloud.com/cel-kulasekaran/" title="SoundCloud">
+                    <i class="fa fa-volume-up"></i>
+                    <span class="hide-text">SoundCloud</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.librarything.com/catalog.php?view=ckulasekaran&offset=0&shelf=shelf" title="LibraryThing">
+                    <i class="fa fa-book"></i>
+                    <span class="hide-text">LibraryThing</span>
+                </a>
+            </li>
+            <li><a href="{{ site.atom_url }}" title="RSS"><i class="fa fa-rss"></i></a></li>
+            <li>
+                <a href="https://en.wikipedia.org/wiki/Amiga" title="Eject!">
+                    <i class="fa fa-eject"></i>
+                    <span class="hide-text">Eject</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+    <div class="copyright">
+        <p>&copy;2002-<script>document.write(new Date().getFullYear())</script> {{ site.name }}. All rights reserved.</p>
+    </div>
+</footer>

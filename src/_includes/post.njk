@@ -21,7 +21,23 @@
     <div class="container-narrow">
         {% include "header.njk" %}
         <main class="website-content" role="main">
-            {{ content | safe }}
+
+            <article class="post">
+                <section class="content">
+            
+                <h1>{{ title }}</h1>
+                
+                <div class="post-content">
+                {{ content | safe }}
+                </div> 
+
+                <div class="footer">
+                    <p class="publisher muted"><!--{{ site.author }}-->
+                    <time class="time" datetime="{{ page.date }}">{{ page.date | formatDateLong }}</time>
+                    </p>
+                </div>
+                </section>
+            </article>
         </main>
         {% include "footer.njk" %}
     </div>

@@ -1,0 +1,43 @@
+---
+layout: base.njk
+title: Cel Kulasekaran
+eleventyNavigation:
+   key: Home
+   order: 0
+pagination:
+   data: collections.paginatedPosts
+   size: 5
+   alias: paginatedPosts
+---
+
+{# Main content container #}
+<div class="website-content" role="main">
+   {# Group posts by year and display #}
+   {% set grouped = paginatedPosts | groupByYear %}
+   {% for year, yearPosts in grouped %}
+       <header>
+           <h2 class="title">{{ year }}</h2>
+       </header>
+       
+       {# List of posts for current year #}
+       <ul class="posts">
+           {% for post in yearPosts %}
+               <li>
+                   <article>
+                       <section class="content">
+                           <time datetime="{{ post.date }}">{{ post.date | formatDate }}</time>
+                           <a href="{{ post.url }}" class="permalink">{{ post.data.title }}</a>
+                       </section>
+                   </article>
+               </li>
+           {% endfor %}
+       </ul>
+   {% endfor %}
+
+
+   {# Pagination controls #}
+   <div class="pagination">
+       {% if pagination.href.previous %}<a href="{{ pagination.href.previous }}" class="post-prev">&#171;&#171;</a>{% endif %}
+       {% if pagination.href.next %}<a href="{{ pagination.href.next }}" class="post-next">&#187;&#187;</a>{% endif %}
+   </div>
+</div>
