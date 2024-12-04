@@ -1,6 +1,5 @@
 @import url(https://cdn-static.postach.io/libs/bootstrap/css/bootstrap.min.css);
-@import url('https://fonts.googleapis.com/css?family=Vollkorn:400italic|Oswald|Open+Sans|Lato&amp;subset=latin,latin-ext');
-
+@import url('https://fonts.googleapis.com/css?family=Vollkorn:400italic|Nunito+Sans:300|Nunito+Sans:400|Nunito+Sans:800|Lato:300|Lato:400|Lato:800|Baskervville&amp;subset=latin,latin-ext');
 /**
  * Page styles
  */
@@ -277,14 +276,13 @@ body {
 }
 
 body {
-  font-weight: normal;
   padding-top: 20px;
   padding-top: 1.25rem;
   padding-bottom: 20px;
   padding-bottom: 1.25rem;
+  font-family: 'Nunito Sans', Helvetica, 'Helvetica Neue Light', 'Helvetica Neue', Lato, sans-serif;
   font-size: 100%;
-  font-family: 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, "Open Sans"
-    Arial, sans-serif;
+  font-weight: 300;
   line-height: 1.625;
   color: #363636;
 }
@@ -303,10 +301,11 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Lato Arial, sans-serif;
+  font-family: Helvetica, 'Helvetica Neue', Lato, sans-serif;
+  font-weight: bold;
   margin: 0.8125px 0;
   color: #363636;
-  line-height: 1.625;
+  line-height: 3.0rem;
 }
 
 h1.title,
@@ -409,10 +408,12 @@ ol {
 
 blockquote,
 blockquote p {
-  font-size: 17px;
-  font-size: 1.0625rem;
+  font-family:'Baskervville', 'Times New Roman', serif;
+  font-weight: 300;
+  font-size: 0.9rem;
+  line-height:1.35rem;
   color: #898989;
-  font-style: italic;
+  /* font-style: italic; */
 }
 
 blockquote {
@@ -866,12 +867,11 @@ hr.large {
 }
 
 .post .footer {
-  font-family: "Oswald", sans-serif;
+  font-family: inherit;
   border-top: solid 1px #cccccc;
   border-top-width: 1px;
   border-top-width: 0.0625rem;
-  font-size: 14px;
-  font-size: 0.875rem;
+  font-size: 0.75rem;
   margin-top: 16px;
   margin-top: 1rem;
   padding-top: 16px;
