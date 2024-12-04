@@ -18,4 +18,6 @@ Some fun captures at Beach Street Studios.
 
 &nbsp;
 
-I am also working on building two guitars for my children. So far, I have completed one and working on the next for my youngest. Will update when completed.
+I am currently building two guitars for my children. The first is [complete][1], and I’m now working on the second for my youngest. I’ll share an update once it’s finished.
+
+[1]: /post/the-kulasekaran-flying-v-kn-001-electric-guitar

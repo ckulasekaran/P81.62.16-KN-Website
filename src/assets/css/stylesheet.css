@@ -551,10 +551,11 @@ hr.large {
   margin-right: 0.5rem;
 }
 .social-icons .nav-pills > li > a {
-  padding: 4px 6px;
+  /* padding: 4px 6px;
   padding: 0.25rem 6px;
-  padding: 4px 0.375rem;
-  padding: 0.20rem 0.275rem;
+  padding: 4px 0.375rem; */
+  padding: 0.275rem 0.275rem;
+  padding-left: 0.215rem;
   height: 26px;
   height: 1.625rem;
   width: 26px;
