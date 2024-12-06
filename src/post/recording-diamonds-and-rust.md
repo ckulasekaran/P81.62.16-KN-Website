@@ -5,7 +5,7 @@ layout: post.njk
 tags: post
 ---
 
-Sharim, a dear childhood friend, recently shared the exciting news that he’d be returning to the U.S. for work briefly, with a weekend stopover on the East Coast. The timing couldn’t have been better — I had just completed audio engineering classes with producer/engineer [Dan Moffat][1] and was already planning some studio work on an instrumental album.
+Sharim, a dear childhood friend, returned to the U.S. briefly for work, with a weekend stopover on the East Coast. The timing couldn’t have been better — I had just completed audio engineering classes with producer/engineer [Dan Moffat][1] and was already planning some studio work on an instrumental album.
 
 ![Dan Moffat (engineer), Sébastien Ridoré (viola), Cel Kulasekaran (acoustic guitar), and Sharim Chua (acoustic guitar).](/assets/images/diamonds-session/more-is-more-cel-kulasekaran-sharim-chua-sebastien-ridore-dan-moffat.png)
 > Dan Moffat (engineer), Sébastien Ridoré (viola), Cel Kulasekaran (acoustic guitar), and Sharim Chua (acoustic guitar)
