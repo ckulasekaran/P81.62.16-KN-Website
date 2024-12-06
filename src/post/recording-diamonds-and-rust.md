@@ -5,36 +5,10 @@ layout: post.njk
 tags: post
 ---
 
-Sharim, a dear friend from my childhood, recently shared the exciting news that he would be returning to the U.S. for a work briefly with a stopover a weekend in the East Coast. The timing could not have been better - I had just wrapped up audio engineering classes with engineer/producer [Dan Moffat](https://moffatsound.com).
+Sharim, a dear childhood friend, recently shared the exciting news that he’d be returning to the U.S. for work briefly, with a weekend stopover on the East Coast. The timing couldn’t have been better—I had just completed audio engineering classes with producer/engineer [Dan Moffat](https://moffatsound.com).
 
 ![Dan Moffat (engineer), Sébastien Ridoré (viola), Cel Kulasekaran (acoustic guitar), and Sharim Chua (acoustic guitar).](/assets/images/diamonds-session/more-is-more-cel-kulasekaran-sharim-chua-sebastien-ridore-dan-moffat.png)
 > Dan Moffat (engineer), Sébastien Ridoré (viola), Cel Kulasekaran (acoustic guitar), and Sharim Chua (acoustic guitar)
-
-
-<!--
-<div id="gallery">
-    <div class="portrait">
-        <a href="/assets/images/diamonds-session/more-is-more-cel-kulasekaran-sharim-chua-sebastien-ridore-dan-moffat.png" data-pswp-width="547.2" data-pswp-height="800">
-            <img src="/assets/images/diamonds-session/more-is-more-cel-kulasekaran-sharim-chua-sebastien-ridore-dan-moffat.png" width="350" alt="Dan Moffat (engineer), Sébastien Ridoré (viola), Cel Kulasekaran (guitar), and Sharim Chua (guitar).">
-        </a>
-    </div>
-    <div class="landscape">
-        <a href="/assets/images/diamonds-session/cel-recording-leads.png" data-pswp-width="1066" data-pswp-height="800" >
-            <img src="/assets/images/diamonds-session/cel-recording-leads.png" width="200" alt="Cel in his happy space laying down some leads.">
-        </a>
-    </div>
-    <div class="landscape">
-        <a href="/assets/images/diamonds-session/sharim-chua-and-sebastien-ridore-recording.png" data-pswp-width="1067" data-pswp-height="800">
-            <img src="/assets/images/diamonds-session/sharim-chua-and-sebastien-ridore-recording.png" width="200" alt="Sharim and Séb in session.">
-        </a>
-    </div>
-    <div class="landscape">
-        <a href="/assets/images/diamonds-session/sharim-and-seb.png" data-pswp-width="1004" data-pswp-height="800">
-            <img src="/assets/images/diamonds-session/sharim-and-seb.png" width="200" alt="Séb and Sharim take a break to discuss some ideas.">
-        </a>
-    </div>
-</div>
--->
 
 While I was already planning to work on an instrumental album with Dan and the studio in mind, it occured to me that we could enjoy producing a song together in addition to just catching up over food and drinks - a reunion through music, recording with an old friend. 
 
