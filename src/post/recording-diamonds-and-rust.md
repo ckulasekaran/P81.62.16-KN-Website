@@ -2,13 +2,16 @@
 title: Recording Diamonds and Rust
 date: 2024-05-12
 layout: post.njk
-usePhotoswipe: true
 tags: post
 ---
 
+Sharim, a dear friend from my childhood, recently shared the exciting news that he would be returning to the U.S. for a work briefly with a stopover a weekend in the East Coast. The timing could not have been better - I had just wrapped up audio engineering classes with engineer/producer [Dan Moffat](https://moffatsound.com).
 
-My childhood friend, Sharim, recently gave me the exciting news that he would be stopping by the East Coast while in the States for work, before heading back to Australia. The timing could not have been better - I had just wrapped up audio engineering classes with engineer/producer [Dan Moffat](https://moffatsound.com).
+![Dan Moffat (engineer), Sébastien Ridoré (viola), Cel Kulasekaran (acoustic guitar), and Sharim Chua (acoustic guitar).](/assets/images/diamonds-session/more-is-more-cel-kulasekaran-sharim-chua-sebastien-ridore-dan-moffat.png)
+> Dan Moffat (engineer), Sébastien Ridoré (viola), Cel Kulasekaran (acoustic guitar), and Sharim Chua (acoustic guitar)
 
+
+<!--
 <div id="gallery">
     <div class="portrait">
         <a href="/assets/images/diamonds-session/more-is-more-cel-kulasekaran-sharim-chua-sebastien-ridore-dan-moffat.png" data-pswp-width="547.2" data-pswp-height="800">
@@ -31,10 +34,18 @@ My childhood friend, Sharim, recently gave me the exciting news that he would be
         </a>
     </div>
 </div>
+-->
 
 While I was already planning to work on an instrumental album with Dan and the studio in mind, it occured to me that we could enjoy producing a song together in addition to just catching up over food and drinks - a reunion through music, recording with an old friend. 
 
+![Cel and Sharim rehearsing](/assets/images/diamonds-session/cel-and-sharim-rehearsal.jpg)
+
 Sharim taught me my first four chords on the guitar two decades ago, and since then, we’ve each grown musically in our own unique direction. With his graphite-built acoustic guitar in tow, we decided to channel our shared history and creativity into a project.
+
+| ![Cel's happy place](/assets/images/diamonds-session/cel-recording-leads.png) | ![Sharim and Sèb in session](/assets/images/diamonds-session/sharim-chua-and-sebastien-ridore-recording.png) 
+| :--: | :--: |
+> In session!
+
 
 On February 18, we booked the Record Co. on February 18 to record a single and fully dive into the joy of music production. In a stroke of luck, a last minute call to Sébatien Ridoré led to him dropping by the studio to join us.
 
