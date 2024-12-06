@@ -14,6 +14,11 @@ module.exports = function (eleventyConfig) {
   // Passthrough copy for static assets
   eleventyConfig.addPassthroughCopy("src/assets");
 
+  // Passthrough copy for photoswipe
+  eleventyConfig.addPassthroughCopy({
+    "node_modules/photoswipe/dist": "assets/photoswipe"
+  });
+
   /**
    * Collections
    */
@@ -118,6 +123,14 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addFilter("slice", (array, start, end) => {
     return array.slice(start, end);
   });
+
+  // Paired Short Codes
+  eleventyConfig.addPairedShortcode(
+    "gallery", (data) => {
+      const galleryContent = markdownLibrary.render(data);
+      return `<div class="gallery">${galleryContent}</div>`;
+    }
+  );
 
   /**
    * Configuration

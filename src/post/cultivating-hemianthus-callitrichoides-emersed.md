@@ -6,7 +6,7 @@ tags: post
 ---
 
 <p align="center" style="text-align: center">
-<img src="/assets/images/iwagumi-padang.jpg" /><br/>
+<img src="/assets/images/iwagumi/iwagumi-padang.jpg" /><br/>
 <strong>Iwagumi Padang</strong> - my planted tank <br/>
 Yes, that is a carbon dioxide canister pumping CO2 underwater!
 </p>
@@ -26,7 +26,7 @@ I opted to cultivate HC emersed rather than submersed for three key reasons:
 For this project, I used a 20-liter (5.5-gallon) rimless tank paired with a 27W, 8000K compact fluorescent bulb. This setup provided ample lighting for HC, which thrives under high light conditions. Replicating the plant’s tropical habitat indoors was essential.
 
 <p align="center" style="text-align: center">
-<img src="/assets/images/iwagumi-tank-and-lighting.jpg" />
+<img src="/assets/images/iwagumi/iwagumi-tank-and-lighting.jpg" />
 </p>
 
 If you find yourself asking, “Do I have enough light?” the answer is likely no. As a rule of thumb, aim for at least two watts per gallon. More light is usually better; I achieved excellent results with the 8000K daylight spectrum bulb.
@@ -35,7 +35,7 @@ If you find yourself asking, “Do I have enough light?” the answer is likely 
 ## Substrate
 The substrate consisted of three layers:
 
-| ![](/assets/images/iwagumi-substrate.jpg) | ![](/assets/images/iwagumi-substrate-2.jpg) | ![](/assets/images/iwagumi-substrate-3.jpg) |
+| ![](/assets/images/iwagumi/iwagumi-substrate.jpg) | ![](/assets/images/iwagumi/iwagumi-substrate-2.jpg) | ![](/assets/images/iwagumi/iwagumi-substrate-3.jpg) |
 | :--: | :--: | :--: |
 	
     1. **Bottom layer:** ADA Powersand Special, a nutrient-rich base (fertilizer) layer with beneficial microorganisms.
@@ -58,7 +58,7 @@ Planting HC is a meticulous process that demands patience:
 
 
 <p style="text-align: center">
-<img src="/assets/images/iwagumi-humidity.jpg" />
+<img src="/assets/images/iwagumi/iwagumi-humidity.jpg" />
 </p>
 
 ## Humidity and Daily Routine
@@ -76,7 +76,7 @@ I set my lights on a timer for 8-10 hours a day.
 Patience is crucial. It took about a month to achieve a dense HC carpet. Initial progress was slow, but consistency paid off as the plants rooted and spread.
 
 <p style="text-align: center">
-<img src="/assets/images/iwagumi-padang.jpg" />
+<img src="/assets/images/iwagumi/iwagumi-padang.jpg" />
 </p>
   
   

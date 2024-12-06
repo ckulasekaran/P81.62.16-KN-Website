@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -7,38 +8,79 @@
     <link href="/assets/css/stylesheet.css" rel="stylesheet" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" />
     <link rel="SHORTCUT ICON" href="https://www.kulasekaran.com/images/favicon_cel.ico" />
+
+    <!-- PhotoSwipe -->
+    {% if usePhotoswipe %}
+    <link rel="stylesheet" href="/assets/photoswipe/photoswipe.css">
+    <script type="module" src="/assets/js/photoswipe-init.js"></script>
+    {% endif %}
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-40383205-1"></script>
     <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-       gtag('config', 'UA-40383205-1');
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+        gtag('config', 'UA-40383205-1');
     </script>
 </head>
+
 <body>
     <div class="container-narrow">
         {% include "header.njk" %}
         <main class="website-content" role="main">
 
+            {% if usePhotoswipe %}
+            <!-- PhotoSwipe Root Element -->
+            <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+                <div class="pswp__bg"></div>
+                <div class="pswp__scroll-wrap">
+                    <div class="pswp__container">
+                        <div class="pswp__item"></div>
+                        <div class="pswp__item"></div>
+                        <div class="pswp__item"></div>
+                    </div>
+                    <div class="pswp__ui pswp__ui--hidden">
+                        <div class="pswp__top-bar">
+                            <div class="pswp__counter"></div>
+                            <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+                            <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+                            <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+                            <div class="pswp__preloader">
+                                <div class="pswp__preloader__icn">
+                                    <div class="pswp__preloader__cut">
+                                        <div class="pswp__preloader__donut"></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="pswp__caption">
+                            <div class="pswp__caption__center"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endif %}
+
             <article class="post">
                 <section class="content">
-            
-                <h1>{{ title }}</h1>
-                
-                <div class="post-content">
-                {{ content | safe }}
-                </div> 
 
-                <div class="footer">
-                    <p class="publisher muted"><!--{{ site.author }}-->
-                    <time class="time" datetime="{{ page.date }}">{{ page.date | formatDateLong }}</time>
-                    </p>
-                </div>
+                    <h1>{{ title }}</h1>
+
+                    <div class="post-content">
+                        {{ content | safe }}
+                    </div>
+
+                    <div class="footer">
+                        <p class="publisher muted">
+                            <time class="time" datetime="{{ page.date }}">{{ page.date | formatDateLong }}</time>
+                        </p>
+                    </div>
                 </section>
             </article>
         </main>
         {% include "footer.njk" %}
     </div>
 </body>
+
 </html>

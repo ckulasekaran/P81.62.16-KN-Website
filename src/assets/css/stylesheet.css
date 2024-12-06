@@ -1352,3 +1352,74 @@ hr.large {
   padding-left: 5px;
   font-size: smaller;
 }
+
+#gallery {
+  display: grid !important;
+  grid-template-columns: repeat(3, 1fr); 
+  gap: 0px; /* Space between grid items */
+}
+
+#gallery .landscape {
+  grid-column: span 1; /* Occupies 2 column */
+  grid-row: span 1; /* Occupies 1 row */
+}
+
+#gallery .portrait {
+  grid-column: span 2; /* Occupies 2 columns */
+  grid-row: span 4; /* Occupies 4 rows */
+}
+
+#gallery img {
+  width: 97%; /* Fill the container */
+  height: auto; /* Maintain aspect ratio */
+  object-fit: cover; /* Ensure consistent image cropping */
+  display: block; /* Prevent inline spacing issues */
+}
+
+.pswp__bg {
+  background-color: black !important; /* Ensure a solid black background */
+}
+
+.pswp__custom-caption {
+  font-size: 1rem;
+  color: #fff;
+  text-align: center;
+  width: 90%;
+  max-width: 40%;
+  padding: 5rem 5rem 5rem 5rem;
+  border-radius: 4px;
+  margin: 8px auto 0;
+  position: absolute;
+  left: 50%;
+  bottom: -25px;
+  transform: translateX(-50%);
+}
+
+.pswp__custom-caption a {
+  color: #fff;
+  text-decoration: underline;
+}
+.hidden-caption-content {
+  display: none;
+}
+
+.scrollable-gallery {
+  display: flex; /* Use flexbox for horizontal alignment */
+  overflow-x: auto; /* Enable horizontal scrolling */
+  gap: 10px; /* Space between thumbnails */
+  padding: 10px; /* Optional padding around the gallery */
+  white-space: nowrap; /* Prevent wrapping */
+  scrollbar-width: thin; /* Optional: Customize scrollbar appearance */
+}
+
+.scrollable-gallery a {
+  flex: 0 0 auto; /* Prevent flex items from shrinking or stretching */
+}
+
+.scrollable-gallery img {
+  max-width: 150px; /* Adjust thumbnail size */
+  height: auto; /* Maintain aspect ratio */
+  display: block; /* Prevent inline spacing */
+  border-radius: 4px; /* Optional rounded corners */
+  cursor: pointer; /* Indicate clickability */
+}
