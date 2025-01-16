@@ -40,7 +40,7 @@ Creating the KN-001 without a dedicated workspace was a lesson in adaptability. 
 
 ![Cel Kulasekaran and the KN-001 Flying-V](/assets/images/flying-v/cel-kulasekaran-boston-music-project.png)
 
-> Jamming with S&#233;bastien Ridor&#233; (viola), Christopher Schroeder (drums), Chris Hernandez (bass), Scott Ziegler (bass), and Rafael Nocedo (keyboard)
+> Jamming with S&#233;bastien Ridor&#233; (viola), Christopher Schroeder (drums), Chris Hernandez (bass), Scott Ziegler (bass synth), and Rafael Nocedo (keyboard)
 > 
 > Post Office Square, Boston, MA\
 > Photograph by [Kevin Trimmer][2]
