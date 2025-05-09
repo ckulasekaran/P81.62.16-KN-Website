@@ -17,9 +17,9 @@ tags: post
 > Hardware: Gotoh Locking Tremolo and Machine Heads (Japanese precision meets late-night panic)\
 > Ernie Ball Slinky Cobalt Strings
 
-Seven years, countless cups of badly timed coffee, and one or two near-fatal encounters with a Dremel, and here it stands! The KN-001 isn't just a guitar. It is a monument to stubborness, a temple of patience, and if we're being perfectly honest, a far more sensible pursuit than my usual flirtations with home 
+Seven years, countless cups of badly timed coffee, and one or two near-fatal encounters with a Dremel, and here it stands! The KN-001 isn't just a guitar. It is a monument to stubborness, a temple of patience, and undeniable proof that the finest things in life are not bought or inherited, they are cobbled together under questionable supervision and just enough voltage to keep things interesting.
 
-It takes its form from Gibson’s defiant ’67 Flying-V, carved out of Alder, a wood that’s been politely enduring this sort of nonsense since the dawn of rock. Rear-routed and outfitted with a configuration that straddles the line between versatility and outright mischief, this Flying-V also carries a personal touch - original artwork by my son, Nigel. This, mind you, wasn’t some scribble nicked from a school project. No, this was a full artistic undertaking, lacquered under so many coats of semi-gloss that future archaeologists may one day marvel at its survival.
+The KN-001 Flying-V borrows its silhouette from Gibson’s defiant ’67 outline, carved out of Alder, a wood that’s been politely enduring this sort of nonsense since the dawn of rock. Rear-routed and outfitted with a configuration that straddles the line between versatility and outright mischief, this Flying-V also carries a personal touch - original artwork by my son, Nigel. This, mind you, wasn’t some scribble nicked from a school project. No, this was a full artistic undertaking, lacquered under so many coats of semi-gloss that future archaeologists may one day marvel at its survival.
 
 ![KN-001 Headstock](/assets/images/flying-v/kn-001-headstock.png)
 
