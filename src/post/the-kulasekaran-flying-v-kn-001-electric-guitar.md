@@ -7,36 +7,38 @@ tags: post
 
 
 ![The Kulasekaran KN-001 Flying-V Electric Guitar](/assets/images/flying-v/kn-001-flying-v.png)
-> Made by the Rock Hero of Kuala Lumpur for his heir and all the shred glory in the world.
+> Made by the Rock Hero of Kuala Lumpur for his rightful heir and all the thunderous shred glory the world could endure.
 >
 > Body: Alder, '67 V-shape, rear-routed\
 > Artwork: Nigel Kulasekaran\
 > Neck: Maple, 24-frets, compound radius, 25.5" scale, Tung-oil finish\
 > Pickups: DiMarzio Super Distortion (bridge), Seymour Duncan Hotrails (neck); direct mount\
 > Three-way toggle switch, 1 Volume, and 1 Tone\
-> Hardware: Gotoh Locking Tremolo and Machine Heads\
+> Hardware: Gotoh Locking Tremolo and Machine Heads (Japanese precision meets late-night panic)\
 > Ernie Ball Slinky Cobalt Strings
 
-Seven years in the making and finally ready to rock! This guitar represents a journey of exploration, patience, and pride, drawing inspiration from the artistry of George Lynch and Michael Schenker. The body design, based on Gibson’s iconic ’67 Flying-V, is crafted from Alder for durability and tone. The rear-routed humbucker-single pickup configuration provides versatility, while the striking artwork, hand-drawn by my son, adds a deeply personal touch. Multiple layers of semi-gloss clear coat ensure the artwork remains protected and vibrant.
+Seven years, countless cups of badly timed coffee, and one or two near-fatal encounters with a Dremel, and here it stands! The KN-001 isn't just a guitar. It is a monument to stubborness, a temple of patience, and if we're being perfectly honest, a far more sensible pursuit than my usual flirtations with home 
+
+It takes its form from Gibson’s defiant ’67 Flying-V, carved out of Alder, a wood that’s been politely enduring this sort of nonsense since the dawn of rock. Rear-routed and outfitted with a configuration that straddles the line between versatility and outright mischief, this Flying-V also carries a personal touch - original artwork by my son, Nigel. This, mind you, wasn’t some scribble nicked from a school project. No, this was a full artistic undertaking, lacquered under so many coats of semi-gloss that future archaeologists may one day marvel at its survival.
 
 ![KN-001 Headstock](/assets/images/flying-v/kn-001-headstock.png)
 
-The neck is a unique feature for a Flying-V, designed with a 25.5” scale and 24 frets for extended range and playability. The Tung oil finish enhances its smooth feel, making it a joy to play.
+And the neck—ah, the neck! A scandalous departure from tradition, stretching out to a full 25.5 inches with 24 frets. Proper reach for those moments when subtlety fails, and you simply must play higher, faster, and louder than good sense allows. Finished with Tung oil, it’s smoother than a conman’s handshake and almost as dangerous.
 
-In May, I was honored to join the teaching artists of the [Boston Music Project][1] for their 10-year anniversary celebration. They requested a surprise addition to the evening’s set list, which became the perfect motivation to complete the KN-001 in time for this special event.
+Back in May, with the [Boston Music Project][1]’s 10th anniversary looming and the threat of a surprise set list hanging over my head like a guillotine, this became the final shove to complete the KN-001.
 
-The pickups are direct mounted with a DiMarzio Super Distortion F-spaced in the bridge and an old Seymour Duncan Hotrails in the neck. DiMarzio's timely support was critical - they delivered on the custom color for the Super Distortion just in time for the performance. Both pickups, with their ceramic magnets, deliver rich, dynamic tones - perfect for everything from shred to smooth leads. 
-
-I may explore reworking the wiring in the future into a split-coil option.
+The pickups? DiMarzio’s Super Distortion in the bridg, delivered just in time by a kindly soul who understood the gravity of the situation, and a battle-scarred Seymour Duncan Hotrails in the neck. Ceramic magnets, direct-mounted, no nonsense. Together they produce tones ranging from civilised murmurings to full-blown sonic insurrection. Coil-splitting might be in the cards later, but for now, we’re dealing exclusively in full power.
 
 ![KN-001 Bridge and Neck Pickups](/assets/images/flying-v/kn-001-pickups.png)
 
-The Gotoh locking tremolo and machine heads ensure stability and precision, though sourcing these components on a tight timeline was a challenge. With some ingenuity and a trusted Dremel, even the toughest hardware installations were managed with reasonable precision.
+Installing the Gotoh locking hardware was, frankly, a bit of a caper. Parts acquired on the thinnest of deadlines, some minor re-engineering courtesy of my trusty Dremel, and an unspoken agreement between myself and the universe that the thing wouldn’t fall apart mid-performance.
 
 ![KN-001 Wiring Schemat11ic](/assets/images/flying-v/kn-001-schematic.png)
 > The current schematic of the wiring soldered for this guitar, June 2022
 
-Creating the KN-001 without a dedicated workspace was a lesson in adaptability. Progress often happened during family vacations across New England, with tools in tow. Completing the guitar in time for the Boston Music Project’s event was a labor of love, culminating in an unforgettable performance: a high-energy take on Bach followed by a rendition of Michael Schenker’s Coast to Coast with the talented teaching artists.
+There was no grand workshop for this creation, just a nomadic collection of tools, holiday rentals across New England, and the occasional curious glance from hotel housekeeping. And yet, somehow, the KN-001 found its way to the stage.
+
+That night, I did the decent thing and gave Bach a proper rock education. Full distortion, Eddie Van Halen flair, and enough fret tapping to make the old master spin in his powdered wig. Then, just to be sure no one had recovered, I launched into Schenker’s Coast to Coast, with the formidable teaching artists of the Boston Music Project holding the line.
 
 ![Cel Kulasekaran and the KN-001 Flying-V](/assets/images/flying-v/cel-kulasekaran-boston-music-project.png)
 
@@ -45,7 +47,7 @@ Creating the KN-001 without a dedicated workspace was a lesson in adaptability. 
 > Post Office Square, Boston, MA\
 > Photograph by [Kevin Trimmer][2]
 
-Grateful to [Steve Morrill][3] and George Lynch for their insipiration and thoughtful encouragement. A special thanks to Chris Schroeder and the teaching artists of the Boston Music Project for their dedication and support.
+Grattitude, naturally, goes to [Steve Morrill][3] and the inimitable George Lynch for their inspiration and good-humoured indulgence. And to Chris Schroeder and the tireless teaching artists of the Boston Music Project: thank you for providing a stage, a reason, and a deadline dangerously close to disaster.
 
 [1]: https://www.bostonmusicproject.org
 [2]: https://www.kevintrimmerphoto.com

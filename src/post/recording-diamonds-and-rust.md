@@ -17,13 +17,13 @@ This was fitting, really. It was Sharim who, some thirty years ago, handed me a 
 ![Cel and Sharim rehearsing](/assets/images/diamonds-session/cel-and-sharim-rehearsal.jpg)
 > Rehearsing and noodling around
 
-On the 18th of February, 2025, we occupied Studio B at The Record Co., fully prepared to squander the day in the productive fashion reserved for old friends and ill-defined plans. And because the univser seemed to be having a particularly good day, a last-minute call brought Sébastien Ridoré to our doorstep, viola case in one hand and the practiced expression of a man who knew full well he was about to steal the show.
+On the 18th of February, 2025, we occupied Studio B at The Record Co., fully prepared to squander the day in the productive fashion reserved only for old friends and ill-defined plans. And because the univsere seemed to be having a particularly good day, a last-minute call brought Sébastien Ridoré to our doorstep, viola case in one hand and the practiced expression of a man who knew full well he was about to steal the show.
 
 | ![Cel's happy place](/assets/images/diamonds-session/cel-recording-leads.png) | ![Sharim and Sèb in session](/assets/images/diamonds-session/sharim-chua-and-sebastien-ridore-recording.png) 
 | :--: | :--: |
 > In session!
 
-Sébastien treated E-flat minor the way a master taiolor handles silk - lightly, precisely, and with just enough flourish to make it look effortless. He laced the track with improvised lines that hovered above it like smoke curling off a good cigar, and for a few splendid hours, the world outside might as well not have existed.
+Sébastien treated E-flat minor the way a master tailor handles silk - lightly, precisely, and with just enough flourish to make it look effortless. He laced the track with improvised lines that hovered above it like smoke curling off a good cigar, and for a few splendid hours, the world outside might as well not have existed.
 
 ![Sébastien Ridoré and Cel Kulasekaran in the studio](/assets/images/diamonds-session/cel-kulasekaran-and-sebastien-ridore.jpg)
 > With Sébastien Ridoré in the studio
@@ -32,7 +32,7 @@ Presiding over this dignified chaos was [Dan Moffat][1], who had the unenviable 
 
 <iframe height="175" width="100%" title="Media player" src="https://embed.music.apple.com/us/album/diamonds-and-rust/1739294506?i=1739294900&amp;itscg=30200&amp;itsct=music_box_player&amp;ls=1&amp;app=music&amp;mttnsubad=1739294900&amp;theme=light" id="embedPlayer" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation-by-user-activation" allow="autoplay *; encrypted-media *; clipboard-write" style="border: 0px; border-radius: 12px; width: 100%; height: 175px; max-width: 800px;"></iframe>
 
-The result is a track we fully expected to collapse under its own ambition but, to our mild surprise, stands rather handsomely on its own. You will find it it making the rounds on [<i class="fab fa-apple"></i> Apple Music][2], [<i class="fab fa-spotify"></i> Spotify][3], [<i class="fab fa-amazon"></i> Amazon Music][4], and other such dens of digital iniquity. 
+The result is a track we fully expected to collapse under its own ambition but, to our mild surprise, stands rather handsomely on its own. You will find it it making the rounds on [<i class="fab fa-spotify"></i> Spotify][3], [<i class="fab fa-apple"></i> Apple Music][2], [<i class="fab fa-amazon"></i> Amazon Music][4], and other such dens of digital iniquity. 
 
 Should this track awaken some reckless creative urge in you, I can only offer the following advice: lean into it. After all, a well-lived life is mostly a collection of glorious mistakes.
 
