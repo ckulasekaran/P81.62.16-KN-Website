@@ -27,7 +27,7 @@ And the neck—ah, the neck! A scandalous departure from tradition, stretching o
 
 Back in May, with the [Boston Music Project][1]’s 10th anniversary looming and the threat of a surprise set list hanging over my head like a guillotine, this became the final shove to complete the KN-001.
 
-The pickups? DiMarzio’s Super Distortion in the bridg, delivered just in time by a kindly soul who understood the gravity of the situation, and a battle-scarred Seymour Duncan Hotrails in the neck. Ceramic magnets, direct-mounted, no nonsense. Together they produce tones ranging from civilised murmurings to full-blown sonic insurrection. Coil-splitting might be in the cards later, but for now, we’re dealing exclusively in full power.
+The pickups? DiMarzio’s Super Distortion in the bridge, delivered just in time by a kind soul who understood the gravity of the situation, and a battle-scarred Seymour Duncan Hotrails in the neck. Ceramic magnets, direct-mounted, no nonsense. Together they produce tones ranging from civilised murmurings to full-blown sonic insurrection. Coil-splitting might be in the cards later, but for now, we’re dealing exclusively in full power.
 
 ![KN-001 Bridge and Neck Pickups](/assets/images/flying-v/kn-001-pickups.png)
 
