@@ -7,7 +7,7 @@ eleventyNavigation:
 tags: pages
 ---
 <div style="float:right; width:30%; margin-left: 20px !important; margin-top: 60px !important">
-<img src="/assets/images/cel-kulasekaran-logic-lane-oxford.jpg" alt="Cel Kulasekaran, Logic Lane Oxford, UK" style="width: 100%; height: auto;">
+<img src="/assets/images/cel-kulasekaran-denmark-phone.jpg" alt="Cel Kulasekaran, Denmark" style="width: 100%; height: auto;">
 </div>
 
 # About
