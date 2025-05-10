@@ -38,7 +38,7 @@ Installing the Gotoh locking hardware was, frankly, a bit of a caper. Parts acqu
 
 There was no grand workshop for this creation, just a nomadic collection of tools, holiday rentals across New England, and the occasional curious glance from neighbors. And yet, somehow, the KN-001 found its way to the stage.
 
-That night, I did the decent thing and gave Bach a proper rock education. Full distortion, Eddie Van Halen flair, and enough fret tapping to make the old master spin in his powdered wig. Then, just to be sure no one had recovered, I launched into Schenker’s Coast to Coast, with the formidable teaching artists of the Boston Music Project holding the line.
+That night, I did the decent thing and gave Bach a proper rock education. Full distortion, Eddie Van Halen flair, and enough fret tapping to make the old master spin in his powdered wig. Then, just to be sure no one had recovered, I launched into Schenker’s Coast to Coast, with the formidable teaching artists of the [Boston Music Project][1] holding the line.
 
 ![Cel Kulasekaran and the KN-001 Flying-V](/assets/images/flying-v/cel-kulasekaran-boston-music-project.png)
 
@@ -47,7 +47,7 @@ That night, I did the decent thing and gave Bach a proper rock education. Full d
 > Post Office Square, Boston, MA\
 > Photograph by [Kevin Trimmer][2]
 
-Grattitude, naturally, goes to [Steve Morrill][3] and the inimitable George Lynch for their inspiration and good-humoured indulgence. And to Chris Schroeder and the tireless teaching artists of the Boston Music Project: thank you for providing a stage, a reason, and a deadline dangerously close to disaster.
+Grattitude, naturally, goes to [Steve Morrill][3] and the inimitable George Lynch for their inspiration and good-humoured indulgence. And to Chris Schroeder and the tireless teaching artists of the [Boston Music Project][1]: thank you for providing a stage, a reason, and a deadline dangerously close to disaster.
 
 [1]: https://www.bostonmusicproject.org
 [2]: https://www.kevintrimmerphoto.com
