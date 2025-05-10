@@ -7,26 +7,28 @@ tags: post
 
 The universe, usually so clumsy with its scheduling, managed for once to do something properly arranged. My childhood friend, Sharim, who has long since exiled himself to the sunnier and more carefree shores of Australia, appeared on the East Coast for a brief visit. This alone is the sort of rare event that deserves a commemorative plaque or at the very least, a good bottle opened in its honor. His visit arrived in that dangerous little window when ideas run high and moderation goes missing in action.
 
-Naturally, we could not permit this convergence to waste itself on nothing more than fine food, a reasonable quantity of drink, and the usual exchanges of tactical dancing over strategy games. No, something properly memorable was in order. And so, armed with nothing but curiosity and guitars, we decided to make a record.
-
 ![Dan Moffat (engineer), Sébastien Ridoré (viola), Cel Kulasekaran (acoustic guitar), and Sharim Chua (acoustic guitar).](/assets/images/diamonds-session/more-is-more-cel-kulasekaran-sharim-chua-sebastien-ridore-dan-moffat.png)
 > Dan Moffat (engineer), Sébastien Ridoré (viola), Cel Kulasekaran (acoustic guitar), and Sharim Chua (acoustic guitar)
 
-This was fitting, really. It was Sharim who, some thirty years ago, handed me a guitar and taught me my first four chords. Four entirely innocent chords that went on to ruin any serious ambitions I might have had and set me adrift in the far more enjoyable waters of musical distraction. Since then, our respective paths had meandered through different territories, but for one lumnious evening, we found ourselves on the same map again.
+
+
+Naturally, we could not permit this convergence to waste itself on nothing more than fine food, a reasonable quantity of drink, and the usual exchanges of tactical dancing over strategy games. No, something properly memorable was in order. And so, armed with nothing but curiosity and guitars, we decided to make a record.
 
 ![Cel and Sharim rehearsing](/assets/images/diamonds-session/cel-and-sharim-rehearsal.jpg)
 > Rehearsing and noodling around
 
-On the 18th of February, we occupied Studio B at The Record Co., fully prepared to squander the day in the productive fashion reserved only for old friends and ill-defined plans. And because the universe seemed to be having a particularly good day, a last-minute call brought Sébastien Ridoré to our doorstep, viola case in one hand and the practiced expression of a man who had no plans to take over but every intention of lifting the whole room higher.
+This was fitting, really. It was Sharim who, some thirty years ago, handed me a guitar and taught me my first four chords. Four entirely innocent chords that went on to ruin any serious ambitions I might have had and set me adrift in the far more enjoyable waters of musical distraction. Since then, our respective paths had meandered through different territories, but for one lumnious evening, we found ourselves on the same map again.
 
 | ![Cel's happy place](/assets/images/diamonds-session/cel-recording-leads.png) | ![Sharim and Sèb in session](/assets/images/diamonds-session/sharim-chua-and-sebastien-ridore-recording.png) 
 | :--: | :--: |
 > In session!
 
-Sébastien treated E-flat minor the way a master tailor handles silk - lightly, precisely, and with just enough flourish to make it look effortless. He laced the track with improvised lines that settled gently over our guitars, and for those rare hours, the world outside seemed to pause.
+On the 18th of February, we occupied Studio B at The Record Co., fully prepared to squander the day in the productive fashion reserved only for old friends and ill-defined plans. And because the universe seemed to be having a particularly good day, a last-minute call brought Sébastien Ridoré to our doorstep, viola case in one hand and the practiced expression of a man who had no plans to take over but every intention of lifting the whole room higher.
 
 ![Sébastien Ridoré and Cel Kulasekaran in the studio](/assets/images/diamonds-session/cel-kulasekaran-and-sebastien-ridore.jpg)
 > With Sébastien Ridoré in the studio
+
+Sébastien treated E-flat minor the way a master tailor handles silk - lightly, precisely, and with just enough flourish to make it look effortless. He laced the track with improvised lines that settled gently over our guitars, and for those rare hours, the world outside seemed to pause.
 
 Presiding over this artful exercise was [Dan Moffat][1], who had the unenviable task of translating our good intentions into something that might actually sound good. Under his watchful ear, I learned that audio engineering is not merely a technical craft but a quiet form of sorcery—equal parts precision, patience, and the occasional knowing smirk when lesser mortals think the mix is finished.
 
